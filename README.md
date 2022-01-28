@@ -1,2 +1,1 @@
-# jacksmchan
-Customer-Product-Invoice Management System
+# Customer-Product-Invoice Management System
