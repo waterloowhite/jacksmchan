@@ -10,6 +10,7 @@ Customers' purchases Manager (CPM) is used to help manager in tracing the storag
 - Maven v3.8.4
 - SpringBoot v2.1.3.RELEASE
 - H2 v1.4.197
+- Hibernate v5.3.7.Final
 - Git v2.34.1.windows.1
 
 ## Development Guide
