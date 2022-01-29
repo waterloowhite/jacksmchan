@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBootJournalApplication {
+public class SpringBootPurchasesApplication {
   public static void main(String[] args) {
     SpringApplication.run(SpringBootJournalApplication.class, args);
   }
