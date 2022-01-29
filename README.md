@@ -19,6 +19,7 @@ Customers' purchases Manager (CPM) is used to help manager in tracing the storag
 1. Install Git v2.34.1.windows.1+
 1. Clone the source code ```git clone .....```
 1. Run ```mvn spring-boot:run``` under the root of this project
+1. Access the application via http://localhost:8080/
 
 ## Design of database tables
 - Customer
